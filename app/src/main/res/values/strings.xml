@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Minha Agenda</string>
+    <string name="txt_agregarNota">Agregar nota</string>
+    <string name="edt_titulo">Titulo de la nota</string>
+    <string name="edt_descripcion">Descripción de la nota</string>
+    <string name="txt_notas">Notas</string>
+    <string name="item_titulo">Titulo</string>
+    <string name="item_descripcion">Descripción</string>
+
+    <string name="txt_actualizarNota">Actualizar nota</string>
+</resources>
